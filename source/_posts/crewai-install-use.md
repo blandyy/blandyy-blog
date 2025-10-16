@@ -1,6 +1,6 @@
 ---
 title: crewAI安装与使用
-date: 2025-10-15 23:57:17
+date: 2025-10-01 23:57:17
 categories: AI
 ---
 ## 背景
