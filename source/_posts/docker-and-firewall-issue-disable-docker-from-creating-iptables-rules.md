@@ -1,7 +1,7 @@
 ---
 title: Docker 与防火墙问题 —— 不让 docker 创建 iptables 规则
 date: 2023-04-28 17:53:26
-tags:
+tags: 操作系统
 ---
 ## 1. 背景
 在某一天，线上被扫出来一个服务漏洞，但是那个服务漏洞的端口不在firewalld防火墙上开放，查了大半天，发现docker自动会在iptable上面添加规则。
