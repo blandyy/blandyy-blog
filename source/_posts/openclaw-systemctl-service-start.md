@@ -1,6 +1,7 @@
 ---
 title: openclaw配置systemctl服务管理
 date: 2026-03-11 13:49:46
+categories: AI
 tags: openclaw
 ---
 
